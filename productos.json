@@ -1,0 +1,83 @@
+[
+    {
+
+        "id": 1,
+        "marca": "Serenisima",
+        "tipo": "Leche",
+        "precio": 150,
+        "imagen": "leche.jpg"
+
+    },
+    {
+
+        "id":  2,
+        "marca": "Gallo de Oro",
+        "tipo": "Arroz",
+        "precio": 120,
+        "imagen": "arroz.jpg"
+
+    },
+    {
+        
+        "id": 3,
+        "marca": "Quilmes",
+        "tipo": "Cerveza",
+        "precio": 240,
+        "imagen": "cerveza.jpg"
+
+    },
+    { 
+
+        "id": 4,
+        "marca": "Merengadas",
+        "tipo": "Galletitas",
+        "precio": 100,
+        "imagen": "galletas.jpg"
+
+    },
+    {
+
+        "id": 5,
+        "marca": "doritos",
+        "tipo":  "Doritos",
+        "precio": 170,
+        "imagen": "doritos.jpg"
+
+    },
+    {
+
+        "id": 6,
+        "marca": "lays",
+        "tipo": "Papas fritas",
+        "precio": 190,
+        "imagen": "papas-lays.jpg"
+
+    },
+    {
+
+        "id": 7,
+        "marca": "Dánica",
+        "tipo": "Manteca",
+        "precio": 200,
+        "imagen": "manteca.jpg"
+
+    },
+    {
+
+        "id": 8,
+        "marca": "Pepe el Pollo",
+        "tipo": "Azucar",
+        "precio": 200,
+        "imagen": "azucar.jpg"
+
+    },
+    {
+
+        "id": 9,
+        "marca": "magistral",
+        "tipo":  "Magistral",
+        "precio": 340,
+        "imagen": "magistral.jpg"
+
+    }
+]
